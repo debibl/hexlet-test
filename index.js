@@ -52,3 +52,4 @@ export default function solution(content){
   console.log(`HottestCity: ${hottestCity}`);
   // END
 }
+// test new wsl
